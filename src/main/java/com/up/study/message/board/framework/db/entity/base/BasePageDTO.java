@@ -7,7 +7,7 @@ import javax.validation.constraints.NotNull;
 import java.io.Serializable;
 
 /**
- * @author idle
+ * @author futao
  * @date 2022/7/2
  */
 @Data
